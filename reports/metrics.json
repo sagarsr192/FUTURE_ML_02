@@ -1,0 +1,80 @@
+{
+  "category": {
+    "accuracy": 0.7241379310344828,
+    "classification_report": {
+      "Account": {
+        "precision": 0.8,
+        "recall": 0.5714285714285714,
+        "f1-score": 0.6666666666666666,
+        "support": 7.0
+      },
+      "Billing": {
+        "precision": 0.875,
+        "recall": 1.0,
+        "f1-score": 0.9333333333333333,
+        "support": 7.0
+      },
+      "General Query": {
+        "precision": 0.6666666666666666,
+        "recall": 0.8571428571428571,
+        "f1-score": 0.75,
+        "support": 7.0
+      },
+      "Technical Issue": {
+        "precision": 0.5714285714285714,
+        "recall": 0.5,
+        "f1-score": 0.5333333333333333,
+        "support": 8.0
+      },
+      "accuracy": 0.7241379310344828,
+      "macro avg": {
+        "precision": 0.7282738095238095,
+        "recall": 0.7321428571428571,
+        "f1-score": 0.7208333333333333,
+        "support": 29.0
+      },
+      "weighted avg": {
+        "precision": 0.7228653530377668,
+        "recall": 0.7241379310344828,
+        "f1-score": 0.714367816091954,
+        "support": 29.0
+      }
+    }
+  },
+  "priority": {
+    "accuracy": 0.5517241379310345,
+    "classification_report": {
+      "High": {
+        "precision": 0.6666666666666666,
+        "recall": 0.6666666666666666,
+        "f1-score": 0.6666666666666666,
+        "support": 9.0
+      },
+      "Low": {
+        "precision": 0.5,
+        "recall": 0.4,
+        "f1-score": 0.4444444444444444,
+        "support": 10.0
+      },
+      "Medium": {
+        "precision": 0.5,
+        "recall": 0.6,
+        "f1-score": 0.5454545454545454,
+        "support": 10.0
+      },
+      "accuracy": 0.5517241379310345,
+      "macro avg": {
+        "precision": 0.5555555555555555,
+        "recall": 0.5555555555555555,
+        "f1-score": 0.5521885521885522,
+        "support": 29.0
+      },
+      "weighted avg": {
+        "precision": 0.5517241379310345,
+        "recall": 0.5517241379310345,
+        "f1-score": 0.5482410309996517,
+        "support": 29.0
+      }
+    }
+  }
+}

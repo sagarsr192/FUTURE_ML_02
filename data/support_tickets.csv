@@ -1,0 +1,114 @@
+ticket_text,category,priority
+"Payment failed twice but amount was deducted from my bank account.",Billing,High
+"I was charged for premium plan even after cancellation.",Billing,High
+"Need invoice copy for last month subscription.",Billing,Low
+"Refund not processed for canceled order.",Billing,High
+"Why is GST added on my renewal bill?",Billing,Low
+"Unable to update card details in billing section.",Billing,Medium
+"Discount code did not apply during checkout.",Billing,Medium
+"Please explain extra usage charges on my statement.",Billing,Low
+"App crashes every time I open settings page.",Technical Issue,High
+"Website is showing 500 error on dashboard.",Technical Issue,High
+"Cannot upload attachments in support form.",Technical Issue,Medium
+"API request timing out after 30 seconds.",Technical Issue,High
+"Mobile app notifications are not working.",Technical Issue,Medium
+"Search feature returns blank page.",Technical Issue,Medium
+"Data export button is disabled unexpectedly.",Technical Issue,Medium
+"System is very slow after latest update.",Technical Issue,High
+"I cannot log in even with correct password.",Account,High
+"Please reset my two-factor authentication.",Account,High
+"Need to change registered email address.",Account,Medium
+"How do I delete my old account?",Account,Low
+"Account got locked after multiple attempts.",Account,High
+"Cannot verify phone number for account setup.",Account,Medium
+"Profile picture upload fails on my account.",Account,Low
+"Username change option is missing.",Account,Low
+"What are your support hours on weekends?",General Query,Low
+"Do you provide student discounts for annual plan?",General Query,Low
+"How can I contact sales team directly?",General Query,Low
+"Need product demo for enterprise package.",General Query,Medium
+"Where can I find documentation for integrations?",General Query,Low
+"Do you offer onboarding for new teams?",General Query,Medium
+"What is the response time for premium support?",General Query,Low
+"Can you share your data retention policy?",General Query,Low
+"Service is down for all users in our office.",Technical Issue,High
+"Billing page keeps loading forever.",Technical Issue,Medium
+"Card charged three times for one invoice.",Billing,High
+"Need urgent help, client data is not visible.",Technical Issue,High
+"My account was hacked and email was changed.",Account,High
+"How to migrate from monthly to yearly plan?",General Query,Low
+"I need a tax invoice with company details.",Billing,Low
+"Forgot password reset email never arrives.",Account,Medium
+"Annual subscription renewed without my approval.",Billing,High
+"Payment link fails on both Chrome and Edge browsers.",Billing,High
+"Billing receipt shows wrong customer name.",Billing,Low
+"Need proforma invoice before making payment.",Billing,Low
+"Our card is declined but bank confirms sufficient balance.",Billing,High
+"Can you split invoice into two cost centers?",Billing,Medium
+"Unable to download invoice PDF from billing page.",Billing,Medium
+"Trial converted to paid plan before end date.",Billing,High
+"Why did currency switch from INR to USD on renewal?",Billing,Medium
+"Refund requested last week is still pending.",Billing,High
+"Tax amount is duplicated in this month billing.",Billing,High
+"The invoice date is incorrect for this cycle.",Billing,Low
+"Need to update GST number on all future invoices.",Billing,Low
+"Payment status says failed but amount got debited.",Billing,High
+"Coupon applied but final billed amount did not change.",Billing,Medium
+"Can I change billing cycle from annual to quarterly?",Billing,Low
+"Bank transfer payment is not reflecting in account.",Billing,Medium
+"We were charged after downgrading to basic plan.",Billing,High
+"Please send consolidated invoice for all team members.",Billing,Low
+"Mobile app closes immediately after login.",Technical Issue,High
+"Dashboard widgets are not loading for admin users.",Technical Issue,High
+"Users cannot reset password due to server error.",Technical Issue,High
+"Search results are empty even for known keywords.",Technical Issue,Medium
+"CSV export is generating corrupted files.",Technical Issue,Medium
+"Webhook events are delayed by more than 10 minutes.",Technical Issue,Medium
+"API authentication suddenly failing with 401.",Technical Issue,High
+"Page layout breaks on iPhone Safari browser.",Technical Issue,Low
+"Notification emails are not being triggered.",Technical Issue,Medium
+"Report generation takes too long and times out.",Technical Issue,High
+"Session gets logged out every few minutes.",Technical Issue,Medium
+"Attachment upload stuck at 99 percent.",Technical Issue,Medium
+"Live chat window does not open on support page.",Technical Issue,Low
+"The analytics graph shows negative values unexpectedly.",Technical Issue,Low
+"Service unavailable error appears during peak hours.",Technical Issue,High
+"Integration with Slack is failing after update.",Technical Issue,Medium
+"Data sync between CRM and app has stopped.",Technical Issue,High
+"Two-factor verification page keeps spinning forever.",Technical Issue,High
+"Back button crashes the app on Android devices.",Technical Issue,Medium
+"Cannot login with SSO from company domain.",Account,High
+"Account owner left company; need ownership transfer.",Account,Medium
+"I accidentally enabled 2FA and lost authenticator access.",Account,High
+"Please remove old phone number from account profile.",Account,Low
+"Invite link for new team members is expired.",Account,Medium
+"My account was suspended without any notification.",Account,High
+"Need to merge two duplicate user accounts.",Account,Medium
+"Profile details revert after saving changes.",Account,Low
+"Cannot change password due to validation bug.",Account,Medium
+"User role changed automatically from admin to viewer.",Account,High
+"Email verification link opens invalid token page.",Account,Medium
+"Account deletion request was submitted but still active.",Account,High
+"Cannot add backup email for account recovery.",Account,Low
+"Please restore my account deleted by mistake.",Account,High
+"Workspace invite says user already exists.",Account,Medium
+"Need help changing account timezone defaults.",Account,Low
+"Security log shows login from unknown device.",Account,High
+"How can I export all users from my organization?",General Query,Low
+"Do you provide SLA guarantees for enterprise support?",General Query,Medium
+"Can we schedule a product onboarding session next week?",General Query,Medium
+"Is there any discount for nonprofit organizations?",General Query,Low
+"Where can I find API rate limit documentation?",General Query,Low
+"Do you support single sign-on with Okta?",General Query,Low
+"How long are backups retained in your system?",General Query,Low
+"Can you share your SOC2 compliance certificate?",General Query,Medium
+"What is included in the premium support package?",General Query,Low
+"Do you offer migration assistance from competitors?",General Query,Medium
+"How many users are included in the starter plan?",General Query,Low
+"Can we request a feature roadmap presentation?",General Query,Medium
+"Do you have a status page for outages?",General Query,Low
+"How can I submit feature requests to product team?",General Query,Low
+"Can you provide training material for support agents?",General Query,Medium
+"Is data encrypted at rest and in transit?",General Query,Low
+"What are your data center locations?",General Query,Low
+"How quickly can we get priority onboarding help?",General Query,Medium
