@@ -1,9 +1,8 @@
-https://futureml02-fmflj9jbdffabm8ilxbqfq.streamlit.app/
+ # Support Ticket Classification & Prioritization
 
-
+ https://futureml02-fmflj9jbdffabm8ilxbqfq.streamlit.app/
 
  
- # Support Ticket Classification & Prioritization
 
 This project implements **Machine Learning Task 2 (2026)**: automatically classify support tickets and assign priority levels.
 
